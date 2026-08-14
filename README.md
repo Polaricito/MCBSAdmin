@@ -4,7 +4,7 @@ A portable, terminal-based **Minecraft Bedrock** server manager with a curses TU
 
 > **Running Java Edition instead?** See **MCSAdmin**, the sibling project that
 > manages a Minecraft **Java** server (`server.jar`, with a managed JRE):
-> [Here!](<https://github.com/Polaricito/MCSAdmin>)
+> <https://github.com/Polaricito/MCSAdmin>
 
 MCBSAdmin installs the official **Bedrock Dedicated Server** (BDS) Linux build,
 boots and manages it, watches CPU/RAM usage, tracks who is connected, and lets
